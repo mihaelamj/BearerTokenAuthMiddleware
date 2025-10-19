@@ -1,5 +1,8 @@
 # BearerTokenAuthenticationMiddleware
 
+![Swift 6.0+](https://img.shields.io/badge/Swift-6.0+-orange.svg)
+![Platforms](https://img.shields.io/badge/Platforms-macOS%20|%20iOS-blue.svg)
+
 A lightweight, concurrency-safe Swift middleware that injects a **Bearer token** into outgoing OpenAPI client requests.
 
 Built for `OpenAPIRuntime`, this package provides a composable, dependency-free way to handle token-based authentication in OpenAPI-generated Swift clients.
